@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "H:\\PROJECTS\\ph-health-care\\HealthCare-Server\\logs\\winston\\errors\\.aa27c706e64e6947a8a9d83be6b199e29a994c8d-audit.json",
+    "files": [
+        {
+            "date": 1713963159039,
+            "name": "H:\\PROJECTS\\ph-health-care\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-24-04-18-error.log",
+            "hash": "3c35982b581c5f12ade6d20ce5b00192b2ba4cfa68b6ef5dc1ed506864ab9108"
+        }
+    ],
+    "hashType": "sha256"
+}
